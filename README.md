@@ -17,3 +17,9 @@ Repository for submitting Advanced Track Assignments.
 | 2023.05.14 | Midterm Presentation 2 - Group 1 | 
 | 2023.05.21 | Midterm Presentation 2 - Group 2 | 
 | 2023.07.XX | Final Presentation|
+
+| Group 1 | Group 2 |
+|:---------:|:---------:|
+| CV Team 1 | DA Team 3 | 
+| DA Team 1 | MM Team 1 | 
+| DA Team 2 | NLP Team 1 | 
